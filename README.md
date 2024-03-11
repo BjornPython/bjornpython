@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h1 align="center">Hi, I'm Nathan</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 📫 How to reach me **nathanmorenoflores@gmail.com**
+### Contact me:
+-  **nathanmorenoflores@gmail.com**
+-  **+ 63 949 340 5687**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
