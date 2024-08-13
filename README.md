@@ -3,7 +3,7 @@
 
 ### Contact me:
 -  **+ 63 949 340 5687**
--  **nathanmorenoflores@gmail.com**
+-  **nathanflores887@gmail.com**
 -  **[my linked in profile](https://www.linkedin.com/in/nathan-flores-developer)**
 
 ### checkout my website:
